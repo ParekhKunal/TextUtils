@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/ParekhKunal/TextUtils/static/css/main.073c9b0a.css",
-    "main.js": "/ParekhKunal/TextUtils/static/js/main.8384d496.js",
-    "static/js/787.719ec76d.chunk.js": "/ParekhKunal/TextUtils/static/js/787.719ec76d.chunk.js",
-    "index.html": "/ParekhKunal/TextUtils/index.html",
-    "main.073c9b0a.css.map": "/ParekhKunal/TextUtils/static/css/main.073c9b0a.css.map",
-    "main.8384d496.js.map": "/ParekhKunal/TextUtils/static/js/main.8384d496.js.map",
-    "787.719ec76d.chunk.js.map": "/ParekhKunal/TextUtils/static/js/787.719ec76d.chunk.js.map"
+    "main.css": "/ParekhKunal.github.io/textUtils/static/css/main.073c9b0a.css",
+    "main.js": "/ParekhKunal.github.io/textUtils/static/js/main.71566a7f.js",
+    "static/js/787.719ec76d.chunk.js": "/ParekhKunal.github.io/textUtils/static/js/787.719ec76d.chunk.js",
+    "index.html": "/ParekhKunal.github.io/textUtils/index.html",
+    "main.073c9b0a.css.map": "/ParekhKunal.github.io/textUtils/static/css/main.073c9b0a.css.map",
+    "main.71566a7f.js.map": "/ParekhKunal.github.io/textUtils/static/js/main.71566a7f.js.map",
+    "787.719ec76d.chunk.js.map": "/ParekhKunal.github.io/textUtils/static/js/787.719ec76d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.8384d496.js"
+    "static/js/main.71566a7f.js"
   ]
 }
